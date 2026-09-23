@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../cppwrapper/cppwrapper.vcxproj" />
+  <Project Path="../cpp_dll_link/cpp_dll_link.vcxproj" Id="eab9b40c-abe6-4701-8c1b-4c71acc690bf" />
+  <Project Path="ClassLibrary2.csproj" />
+</Solution>
